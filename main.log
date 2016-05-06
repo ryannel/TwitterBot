@@ -1,0 +1,41 @@
+2015-08-31 07:14:01,892 - DEBUG: =================
+2015-08-31 07:14:01,892 - DEBUG: Start Run
+2015-08-31 07:14:01,892 - DEBUG: Scraping for new content
+2015-08-31 07:15:02,357 - ERROR: Twitter Error: {'errors': [{'message': 'You have already retweeted this tweet.', 'code': 327}]}
+2015-08-31 07:15:02,705 - ERROR: Twitter Error: {'errors': [{'message': 'You have already retweeted this tweet.', 'code': 327}]}
+2015-08-31 07:15:03,041 - ERROR: Twitter Error: {'errors': [{'message': 'You have already retweeted this tweet.', 'code': 327}]}
+2015-08-31 07:15:03,451 - ERROR: Twitter Error: {'errors': [{'message': 'You have already retweeted this tweet.', 'code': 327}]}
+2015-08-31 07:15:03,847 - ERROR: Twitter Error: {'errors': [{'message': 'You have already retweeted this tweet.', 'code': 327}]}
+2015-08-31 07:15:04,275 - ERROR: Twitter Error: {'errors': [{'message': 'You have already retweeted this tweet.', 'code': 327}]}
+2015-08-31 07:15:04,713 - ERROR: Twitter Error: {'errors': [{'message': 'You have already retweeted this tweet.', 'code': 327}]}
+2015-08-31 07:15:05,128 - INFO: retweeting : Demand for #data scientists is exploding! Learn the essentials &amp; #machinelearning models w/ this free 5-week course: http://t.co/Hurhvp7Pgz
+2015-08-31 07:15:05,128 - DEBUG: Tweet worker : waiting
+2015-08-31 07:15:05,128 - DEBUG: LinkedIn worker : waiting
+2015-08-31 07:15:05,128 - DEBUG: End Run
+2015-08-31 07:15:05,128 - DEBUG: =================
+2015-08-31 20:24:34,473 - DEBUG: =================
+2015-08-31 20:24:34,473 - DEBUG: Start Run
+2015-08-31 20:24:34,477 - DEBUG: Using existing content
+2015-08-31 20:24:34,478 - DEBUG: ReTweet worker: waiting
+2015-08-31 20:24:34,478 - DEBUG: Tweet worker : waiting
+2015-08-31 20:24:34,479 - DEBUG: LinkedIn worker : waiting
+2015-08-31 20:24:34,479 - DEBUG: End Run
+2015-08-31 20:24:34,479 - DEBUG: =================
+2015-08-31 20:24:46,040 - DEBUG: =================
+2015-08-31 20:24:46,040 - DEBUG: Start Run
+2015-08-31 20:24:46,044 - DEBUG: Using existing content
+2015-08-31 20:24:49,632 - INFO: retweeting : #DeepLearning and relationships with #imaging &amp; #art... #MachineLearning #AI #BigData IEEESpectrum aidotech  https://t.co/AgtmB5pWYq
+2015-08-31 20:24:49,633 - DEBUG: ReTweet worker: no matching tweets found
+2015-08-31 20:24:49,634 - DEBUG: Tweet worker : waiting
+2015-08-31 20:24:49,635 - DEBUG: LinkedIn worker : waiting
+2015-08-31 20:24:49,635 - DEBUG: End Run
+2015-08-31 20:24:49,635 - DEBUG: =================
+2015-08-31 20:34:19,767 - DEBUG: =================
+2015-08-31 20:34:19,767 - DEBUG: Start Run
+2015-08-31 20:34:19,770 - DEBUG: Using existing content
+2015-08-31 20:34:22,312 - ERROR: Twitter Error: {'errors': [{'message': 'You have already retweeted this tweet.', 'code': 327}]}
+2015-08-31 20:34:22,694 - INFO: retweeting : This Fake Town Exists Solely To Test #Driverless Cars http://t.co/ozlfWJjKRb #DeepLearning #MachineLearning
+2015-08-31 20:34:22,695 - DEBUG: Tweet worker : waiting
+2015-08-31 20:34:22,695 - DEBUG: LinkedIn worker : waiting
+2015-08-31 20:34:22,695 - DEBUG: End Run
+2015-08-31 20:34:22,695 - DEBUG: =================
